@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/captureimage.ico</file>
+        <file>image/exit.ico</file>
+        <file>image/open.ico</file>
+        <file>image/print.ico</file>
+    </qresource>
+</RCC>
